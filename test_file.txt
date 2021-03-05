@@ -1,3 +1,4 @@
 Add new text;
 This is feature of a teammate
 This should be from feature
+Add feature 1
