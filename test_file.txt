@@ -1,1 +1,2 @@
 Add new text;
+This is feature of a teammate
